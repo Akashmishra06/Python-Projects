@@ -7,7 +7,6 @@ yourSection = college("IT'A")
 print(f"yourSectionIs: {yourSection}")
 
 
-
 # Python script to demonstrate the steps involved in the conversion of Python source code into executable code
 
 # Step 1: Writing Python Code

@@ -40,18 +40,25 @@
 
 
 
-## dataTypes
 
-Numbers : 123, 4.14, 3_4j, 0b111, Decimal(), fraction()
+# Python Data Types
 
-String: 'span', "Bob's", 
+## Numbers:
+- Integers, Floats, Complex Numbers, Binary Numbers, Decimal, Fraction
 
-list: mylist = [1,2,3,3,[43,43]]
+## Strings:
+- Single Quotes, Double Quotes
 
-tuple: mytuple = (3,4,2,4,5,(54,54))
+## Lists, Tuples, Dictionaries, Sets
 
-dictionaries: mydict = {'food':'span', 'taste':'yum'}, dict(hours=10)
+## File Handling
 
-sets: set('abc), {'a','b','c'}
+## Boolean, None
 
-file: 
+## Functions, Modules, Classes
+
+# Advanced Python
+
+## Decorators, Generators, Iterators
+
+## Comprehensions, Context Managers
